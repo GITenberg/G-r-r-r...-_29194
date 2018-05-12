@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31862'
     url: http://www.gutenberg.org/2009/agents/31862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29194#G-r-r-r...-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-06-21'
 gutenberg_type: Text
